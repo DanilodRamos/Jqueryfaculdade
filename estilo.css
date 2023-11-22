@@ -6,8 +6,8 @@ body{
 * { box-sizing: border-box;}
 
 header{
-    background-color:#a35858;
-    color: #fff;
+    background-color:rgb(65, 26, 240);
+    color: #ffffff;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
@@ -42,7 +42,7 @@ ul li{
     cursor: pointer;
     padding: 10px 0px;
     list-style-type: none;
-    background-color: #eee;
+    background-color: #eeeeee;
     font-size: 20px;
     transition: 0.2s;
     display: flex;
